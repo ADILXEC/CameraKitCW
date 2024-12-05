@@ -1,2 +1,1 @@
-# CameraKitCW
- 
+# camera_kit_demo
